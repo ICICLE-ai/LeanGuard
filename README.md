@@ -5,6 +5,8 @@ LeanGuard checks agent tool calls against temporal policies written in Lean 4. I
 
 **Tags:** CI4AI
 
+> This ICICLE fork tracks [`DebarghaG/LeanGuard`](https://github.com/DebarghaG/LeanGuard). Send code contributions to [upstream pull requests](https://github.com/DebarghaG/LeanGuard/pulls) and report bugs or feature requests in [upstream issues](https://github.com/DebarghaG/LeanGuard/issues).
+
 ### License
 
 [MIT, with Apache-2.0 terms for the vendored A2A protocol](LICENSE)

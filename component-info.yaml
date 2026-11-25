@@ -1,3 +1,5 @@
+# Canonical source: https://github.com/DebarghaG/LeanGuard
+# Project contributions: https://github.com/DebarghaG/LeanGuard/pulls
 # The upstream package is 0.2.0rc2. The catalog version field uses X.Y.Z.
 - id: "LeanGuard:0.2.0"
   owner: "Debargha Ganguly"
