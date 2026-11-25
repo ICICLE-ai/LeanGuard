@@ -1,0 +1,16 @@
+# The upstream package is 0.2.0rc2. The catalog version field uses X.Y.Z.
+- id: "LeanGuard:0.2.0"
+  owner: "Debargha Ganguly"
+  primaryThrust: "core/CI4AI"
+  name: "LeanGuard"
+  status: "BetaRelease"
+  description: "LeanGuard checks agent tool calls against temporal policies written in Lean 4. Its Python host evaluates permissions through the compiled Lean engine and records decisions before tool execution."
+  componentVersion: "0.2.0"
+  targetIcicleRelease: None
+  licenseUrl: "https://github.com/ICICLE-ai/LeanGuard?tab=MIT-1-ov-file"
+  publicAccess: true
+  sourceCodeUrl: "https://github.com/ICICLE-ai/LeanGuard"
+  codeReviewConducted: true
+  testsWritten: true
+  developerDocumentationAvailable: true
+  trainingTutorialsAvailable: true

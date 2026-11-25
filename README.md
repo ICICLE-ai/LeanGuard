@@ -1,5 +1,33 @@
 # LeanGuard
 
+<!-- ICICLE metadata start -->
+LeanGuard checks agent tool calls against temporal policies written in Lean 4. Its Python host evaluates permissions through the compiled Lean engine and records decisions before tool execution.
+
+**Tags:** CI4AI
+
+### License
+
+[MIT, with Apache-2.0 terms for the vendored A2A protocol](LICENSE)
+
+## References
+
+- [LeanGuard tutorials](docs/tutorials/README.md)
+- [Runtime guarantees](docs/guarantees.md)
+- [Upstream repository](https://github.com/DebarghaG/LeanGuard)
+
+## Acknowledgements
+
+*National Science Foundation (NSF) funded AI institute for Intelligent Cyberinfrastructure with Computational Learning in the Environment (ICICLE) (OAC 2112606)*
+
+## Issue reporting
+
+Report issues on [GitHub](https://github.com/DebarghaG/LeanGuard/issues).
+
+---
+
+# How-To Guides
+<!-- ICICLE metadata end -->
+
 LeanGuard sits between an AI agent and its tools and refuses calls that break your
 policy. The policies are ordinary Lean 4 definitions, so you can prove things about
 them, and the engine that evaluates them is itself proved to agree with a formal
